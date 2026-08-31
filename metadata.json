@@ -1,0 +1,7 @@
+{
+  "name": "Daily Earner - Smart Bot Store & Referral Hub",
+  "description": "Intuitive smart bot marketplace, license manager, mobile money checkout, and transparent single-level 10% referral rewards platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
